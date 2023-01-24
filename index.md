@@ -13,8 +13,7 @@
 ## Integrating Docsify-This Pages with Canvas LMS
 
 * [Embed content in Canvas](https://www.howtocanvas.com/create-amazing-pages-in-canvas/embedding-content)  
-iFrame Code Example, including URL parameters to seamlessly match Docsify-This content to Canvas:
-
+iFrame Code Example, including URL parameters to seamlessly match Docsify-This content to Canvas:  
 ```html
 <p><iframe style="overflow: hidden; border: 0px #ffffff none; margin-top: -26px; background: #ffffff;" src="https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages-demo/main&homepage=home.md&font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&font-size=1&hide-credits=true" width="800px" height="1400px" allowfullscreen="allowfullscreen"></iframe></p>
 ```
