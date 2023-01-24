@@ -27,7 +27,7 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/paulhibbitts
 ```
 
 [Redirect Tool (for adding a link as a navigation item in a course )](https://www.eduappcenter.com/apps/63?filter_text=#.X3uex2hKiM8)  
-Redirect URL field:  
+Redirect URL field example:  
 
 ```html
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=resources.md&edit-link=https://github.com/paulhibbitts/cmpt-363-222-pages/blob/main/resources.md&font-family=Lato%20Extended, Lato,Helvetica%20Neue, Helvetica, Arial, sans-serif&font-size=1&hide-credits=true
