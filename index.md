@@ -10,7 +10,7 @@
 *   [UX Techniques Guide Page (using Accordion format)](ux-techniques-guide.md)
 *   [Contact](contact.md)
 
-## Integrating Docsify-This Pages with Other Platforms
+## Embedding Docsify-This Pages into Other Platforms
 
 ### Canvas LMS
 
