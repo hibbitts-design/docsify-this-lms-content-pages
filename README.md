@@ -38,7 +38,7 @@ Docsify-This Examples
 * [Embeddable UX Techniques Guide Page (using Accordion format)](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=ux-techniques-guide.md&font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&amp;font-size=1&amp;link-color=0374B5&amp;hide-credits=true "Embeddable UX Techniques Guide Page (using Accordion format)")
 * [Embeddable Contact Page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=contact.md&font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&amp;font-size=1&amp;link-color=0374B5&amp;hide-credits=true "Embeddable Contact Page")
 
-Integrating Docsify-This Pages with Other Platforms
+Embedding Docsify-This Pages into Other Platforms
 ---
 
 ### Canvas LMS
