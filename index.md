@@ -10,7 +10,9 @@
 *   [UX Techniques Guide Page (using Accordion format)](ux-techniques-guide.md)
 *   [Contact](contact.md)
 
-## Integrating Docsify-This Pages with Canvas LMS
+## Integrating Docsify-This Pages with Other Platforms
+
+### Canvas LMS
 
 [Embed content in Canvas](https://www.howtocanvas.com/create-amazing-pages-in-canvas/embedding-content)  
 iFrame Code Example, including URL parameters to seamlessly match Docsify-This content to Canvas:  
@@ -33,7 +35,7 @@ Redirect URL field example:
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=resources.md&edit-link=https://github.com/paulhibbitts/cmpt-363-222-pages/blob/main/resources.md&font-family=Lato%20Extended, Lato,Helvetica%20Neue, Helvetica, Arial, sans-serif&font-size=1&hide-credits=true
 ```
 
-## Integrating Docsify-This Pages with Moodle
+### Moodle LMS
 
 [iFrame (for embedding content within pages)](https://docs.moodle.org/401/en/Iframe)  
 
