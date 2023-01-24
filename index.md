@@ -14,7 +14,7 @@
 
 * [Embed content in Canvas](https://www.howtocanvas.com/create-amazing-pages-in-canvas/embedding-content)
 * [How do I add an external URL as a module item?](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-external-URL-as-a-module-item/ta-p/967)
-* [Redirect Tool (for adding a link as a navigation item in course )](https://www.eduappcenter.com/apps/63?filter_text=#.X3uex2hKiM8)
+* [Redirect Tool (for adding a link as a navigation item in a course )](https://www.eduappcenter.com/apps/63?filter_text=#.X3uex2hKiM8)
 
 ## Integrating Docsify-This Pages with Moodle
 
