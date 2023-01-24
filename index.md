@@ -13,7 +13,6 @@
 ## Integrating Docsify-This Pages with Canvas LMS
 
 * [Embed content in Canvas](https://www.howtocanvas.com/create-amazing-pages-in-canvas/embedding-content)
-
 iFrame Code Example, including URL parameters to seamlessly match Docsify-This content to Canvas:
 
 ```html
