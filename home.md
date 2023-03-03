@@ -7,7 +7,7 @@
 > ### Required Reading
 > * [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
 >
-> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
+> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/76692/quizzes/238287 ':class=button')
 
 # Looking Ahead to Next Week
 ## How to plan, conduct, and summarize usability tests?
