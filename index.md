@@ -10,6 +10,8 @@
 *   [UX Techniques Guide Page (using Accordion format)](ux-techniques-guide.md)
 *   [Contact](contact.md)
 
+View an example Canvas LMS site based on the above templates at https://canvas.sfu.ca/courses/76692.
+
 ## Embedding Docsify-This Pages into Other Platforms
 
 ### Canvas LMS
