@@ -1,4 +1,4 @@
-### [A](#a) | B | C | [D](#d) | E | [F](#f) | G | [H](#h) | I | [J](#j) | [K](#k) | [L](#l) | [M](#m) | N | O | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W  |X | Y | Z
+###&nbsp;[A](#a)&nbsp;| B | C |&nbsp;[D](#d)&nbsp;| E | [F](#f) | G | [H](#h) | I | [J](#j) | [K](#k) | [L](#l) | [M](#m) | N | O | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W  |X | Y | Z
 
 ### A
 [Agile UX](https://canvas.sfu.ca/courses/76692/modules/items/2850127)
